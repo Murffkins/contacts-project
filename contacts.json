@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "6489746e4860f987a92340e6",
+    "firstName": "Daniel",
+    "lastName": "Murff",
+    "email": "perkins_n@hotmail.com",
+    "favoriteColor": "Black",
+    "birthday": "07/29/1985"
+  },
+  {
+    "_id": "648974784860f987a92340e7",
+    "birthday": "11/03/2008",
+    "email": "perkins_n@hotmail.com",
+    "favoriteColor": "Blue",
+    "firstName": "Brett",
+    "lastName": "Murff"
+  },
+  {
+    "_id": "6489747c4860f987a92340e8",
+    "birthday": "02/05/2010",
+    "email": "perkins_n@hotmail.com",
+    "favoriteColor": "Red",
+    "firstName": "Ryan",
+    "lastName": "Murff"
+  },
+  {
+    "_id": "648a9dfbbce6e94352dfad4b",
+    "firstName": "Tyler",
+    "lastName": "Murff",
+    "email": "perkins_n@hotmail.com",
+    "favoriteColor": "Green",
+    "birthday": "06/14/2011"
+  },
+  {
+    "_id": "649e33da45c23905c4b3cc5c",
+    "firstName": "Nicole",
+    "lastName": "Murff",
+    "email": "perkins_n@hotmail.com",
+    "favoriteColor": "Green",
+    "birthday": "10/02/1983",
+    "createdAt": "2023-06-30T01:46:02.808Z",
+    "updatedAt": "2023-06-30T01:46:02.808Z",
+    "__v": 0
+  }
+]
